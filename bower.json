@@ -1,0 +1,8 @@
+{
+  "name": "elasticsearch-elements",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "elasticsearch-status": "erikringsmuth/elasticsearch-status#master",
+    "elasticsearch-index-status": "erikringsmuth/elasticsearch-index-status#master"
+  }
+}
