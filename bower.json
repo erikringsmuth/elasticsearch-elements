@@ -1,5 +1,21 @@
 {
   "name": "elasticsearch-elements",
+  "version": "0.0.1",
+  "authors": [
+    "Erik Ringsmuth <erik.ringsmuth@gmail.com>"
+  ],
+  "description": "Aggregation component for elasticsearch-elements.",
+  "keywords": [
+    "elasticsearch",
+    "polymer",
+    "web-components"
+  ],
+  "main": "elasticsearch-elements.html",
+  "license": "MIT",
+  "homepage": "https://github.com/erikringsmuth/elasticsearch-elements",
+  "ignore": [
+    "**/.*"
+  ],
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "elasticsearch-status": "erikringsmuth/elasticsearch-status#master",
